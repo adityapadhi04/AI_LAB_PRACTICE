@@ -1,4 +1,6 @@
 # Exclude files not to be pushed
 BFS.py
+DFS.py
 dfs.py
 hill.py
+hill_climb.py
